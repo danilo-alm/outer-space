@@ -1,3 +1,5 @@
+Little experiment I did for learning C++ and graphics! Kept for archival purposes.
+
 # Outer Space
 
 Here's a YouTube video showing the program:
